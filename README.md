@@ -5,6 +5,7 @@ Hello, This is Beginner
 > : https://github.com/bnv20    
 <br>
 
+
 파이썬공부  [1주차_내용]
 1) 파이썬 기초
 2) 자료형 - 리스트, 튜플, 딕셔너리, 집합
@@ -12,6 +13,7 @@ Hello, This is Beginner
 4) 함수
 5) 모듈, 패키지, 라이브러리 간단정리.
 
+\
 파이썬공부  [2주차_내용]
 1) 예외처리 try, else, except, finally
 2) 클래스 - 객체지향언어     
