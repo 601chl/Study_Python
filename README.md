@@ -11,3 +11,8 @@ Hello, This is Beginner
 3) 프로그램 구조 쌓기 - if, while, for
 4) 함수
 5) 모듈, 패키지, 라이브러리 간단정리.
+
+파이썬공부  [2주차_내용]
+1) 예외처리 try, else, except, finally
+2) 클래스 - 객체지향언어     
+3) 프로그램에 대한 공부
